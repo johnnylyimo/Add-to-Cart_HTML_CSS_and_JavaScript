@@ -33,3 +33,9 @@ header img{
     width: 15%;
     height: 15%;
 }
+
+/* brand-description */
+header span{
+    margin-left: 10px;
+    
+}
