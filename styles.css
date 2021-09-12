@@ -23,6 +23,7 @@ main header{
     flex-direction: row;
     justify-content: flex-start;
     align-items: center;
+    color: black;
     
 
 }
