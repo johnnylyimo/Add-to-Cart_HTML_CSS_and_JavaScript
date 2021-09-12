@@ -26,3 +26,8 @@ main header{
     color: black;
     font-size: 3em;
 }
+
+
+header img{
+    width: 15%;
+}
