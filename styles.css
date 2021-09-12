@@ -9,5 +9,5 @@ main {
     height: 90vh;
     margin: 0px auto;
     background-color:rgb(185, 185, 185);
-    
+    border-radius: 20px;
 }
