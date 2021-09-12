@@ -11,3 +11,8 @@ main {
     background-color:rgb(185, 185, 185);
     border-radius: 20px;
 }
+
+
+main header{
+    background-color: rgb(170, 169, 169);
+}
