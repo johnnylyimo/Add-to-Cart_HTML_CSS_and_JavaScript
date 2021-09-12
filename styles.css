@@ -25,6 +25,7 @@ main header{
     margin-top: 10px;
     border-radius: 20px;
     padding: 10px;
+    font-family: "Frederic";
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
