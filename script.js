@@ -46,7 +46,8 @@ foods.addEventListener("change", function(){
         notification.innerHTML ='You have selected: ';
         display_text.innerHTML = user_selection.text;
         addToCardBtn.classList.remove('hidden');
-     
+        resetBtn.classList.remove('hidden');
+        
     }
 
 })
