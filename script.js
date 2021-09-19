@@ -41,4 +41,7 @@ foods.addEventListener("change", function(){
     user_selection.value = selected_item.value;
     user_selection.text = selected_item.text;
 
+    // if conditiona check if user select item
+    if (Number(user_selection.value) > 0){}
+
 })
