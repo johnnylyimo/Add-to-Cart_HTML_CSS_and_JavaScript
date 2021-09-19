@@ -88,7 +88,10 @@ header span{
 }
 
 /* dynamic class called from javascript */
-.btnStyle{}
+.btnStyle{
+    background-color: rgb(129, 129, 129);
+ 
+}
 
 
 /* Responsive mobile friendly screen below width 768px  */
