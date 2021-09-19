@@ -53,5 +53,6 @@ header span{
     width: 95%;
     min-height:70%;
     margin: 10px auto;
-   
+    border-radius: 20px;
+  
 }
