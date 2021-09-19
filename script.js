@@ -73,3 +73,9 @@ addToCardBtn.addEventListener('click', () => {
     }
 
 })
+
+
+// Listen button event click
+resetBtn.addEventListener('click',  () =>{
+    
+})
