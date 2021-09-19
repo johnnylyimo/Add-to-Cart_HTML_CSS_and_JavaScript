@@ -53,7 +53,7 @@ foods.addEventListener("change", function(){
         notification.innerHTML ="No dish selected";
         display_text.innerHTML = null;
         display_value.innerHTML = null;
-    
+        addToCardBtn.classList.add('hidden');
     }
 
 })
