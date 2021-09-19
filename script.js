@@ -23,3 +23,8 @@ var food_list =[
     {name: 'Biriani Nyama', price:5000.00},
     {name: 'Biriani Kuku', price:7000.00},
 ]
+
+// Populate select tag with list of food for user to select
+for(var i = 0; i < food_list.length; i++){
+
+}
