@@ -82,5 +82,6 @@ resetBtn.addEventListener('click',  () =>{
     foods.selectedIndex = '';
     checkout.innerHTML = '';
     notification.innerHTML ="No dish selected";
-  
+    display_value.innerHTML ="";
+ 
 })
