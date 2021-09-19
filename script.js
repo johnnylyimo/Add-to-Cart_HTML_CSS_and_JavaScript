@@ -65,7 +65,8 @@ addToCardBtn.addEventListener('click', () => {
     // if condition allow 5 items only to be added to Cart 
     if (total_item < 5){
         var checkoutItem = document.createElement('p');
-    
+        checkoutItem.innerHTML = user_selection.text;
+      
     }
 
 })
