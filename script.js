@@ -51,7 +51,8 @@ foods.addEventListener("change", function(){
         resetBtn.classList.add('btnStyle');
     }else {
         notification.innerHTML ="No dish selected";
-     
+        display_text.innerHTML = null;
+        
     }
 
 })
