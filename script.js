@@ -47,7 +47,7 @@ foods.addEventListener("change", function(){
         display_text.innerHTML = user_selection.text;
         addToCardBtn.classList.remove('hidden');
         resetBtn.classList.remove('hidden');
-        
+        addToCardBtn.classList.add('btnStyle');
     }
 
 })
