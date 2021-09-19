@@ -52,5 +52,6 @@ header span{
 .content{
     width: 95%;
     min-height:70%;
-  
+    margin: 10px auto;
+   
 }
