@@ -24,10 +24,13 @@ var food_list =[
     {name: 'Biriani Kuku', price:7000.00},
 ]
 
-// Populate select tag with list of food for user to select
+// Populate select tag with list of foods for user to select
 for(var i = 0; i < food_list.length; i++){
     var newOption = document.createElement('option');
     newOption.value = food_list[i].price;
     newOption.innerHTML = food_list[i].name + ': Tsh ' + Number(food_list[i].price).toFixed(2);
     foods.appendChild(newOption);
 }
+
+// create object variable
+user_selection = {value:null, text:null};
