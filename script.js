@@ -84,5 +84,6 @@ resetBtn.addEventListener('click',  () =>{
     notification.innerHTML ="No dish selected";
     display_value.innerHTML ="";
     display_text.innerHTML ="";
+    totalDiv.innerHTML = "0.00";
   
 })
