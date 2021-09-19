@@ -27,5 +27,5 @@ var food_list =[
 // Populate select tag with list of food for user to select
 for(var i = 0; i < food_list.length; i++){
     var newOption = document.createElement('option');
-   
-}
+    newOption.value = food_list[i].price;
+    
