@@ -38,6 +38,6 @@ user_selection = {value:null, text:null};
 // Add event to select tag foods
 foods.addEventListener("change", function(){
     var selected_item = document.querySelector('#foods option:checked');
-   
+    user_selection.value = selected_item.value;
 
 })
