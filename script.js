@@ -8,3 +8,4 @@ var tshsSpan  = document.querySelector('#tshs');
 var display_text = document.querySelector('#user_selected_text')
 var display_value = document.querySelector('#user_selected_value')
 var notification = document.querySelector('#notification')
+var total = 0;
