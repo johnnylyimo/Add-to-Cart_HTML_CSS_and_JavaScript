@@ -10,3 +10,6 @@ var display_value = document.querySelector('#user_selected_value')
 var notification = document.querySelector('#notification')
 var total = 0;
 var total_item = 0;
+
+// initialize class to Button for styling
+addToCardBtn.classList.add('hidden');
