@@ -62,5 +62,9 @@ foods.addEventListener("change", function(){
 
 // Listen button event click
 addToCardBtn.addEventListener('click', () => {
-    
+    // if condition allow 5 items only to be added to Cart 
+    if (total_item < 5){
+       
+    }
+
 })
