@@ -67,6 +67,7 @@ addToCardBtn.addEventListener('click', () => {
         var checkoutItem = document.createElement('p');
         checkoutItem.innerHTML = user_selection.text;
         checkout.appendChild(checkoutItem);
+        total_item++;
         
     }
 
