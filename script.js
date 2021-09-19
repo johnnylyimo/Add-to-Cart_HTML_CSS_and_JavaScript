@@ -69,7 +69,7 @@ addToCardBtn.addEventListener('click', () => {
         checkout.appendChild(checkoutItem);
         total_item++;
         total+= parseFloat(user_selection.value);
-        
+        totalDiv.innerHTML = total.toFixed(2);
     }
 
 })
