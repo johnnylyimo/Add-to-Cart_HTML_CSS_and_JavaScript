@@ -55,5 +55,6 @@ header span{
     margin: 10px auto;
     border-radius: 20px;
     background-color: silver;
+    display: flex;
    
 }
