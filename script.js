@@ -16,4 +16,6 @@ addToCardBtn.classList.add('hidden');
 resetBtn.classList.add('hidden');
 
 // list of all foods
-var food_list =[]
+var food_list =[
+    {name: 'Ugali Nyama', price:1500.00},
+]
