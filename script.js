@@ -68,6 +68,7 @@ addToCardBtn.addEventListener('click', () => {
         checkoutItem.innerHTML = user_selection.text;
         checkout.appendChild(checkoutItem);
         total_item++;
+        total+= parseFloat(user_selection.value);
         
     }
 
