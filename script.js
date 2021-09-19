@@ -29,5 +29,5 @@ for(var i = 0; i < food_list.length; i++){
     var newOption = document.createElement('option');
     newOption.value = food_list[i].price;
     newOption.innerHTML = food_list[i].name + ': Tsh ' + Number(food_list[i].price).toFixed(2);
-   
+    foods.appendChild(newOption);
 }
