@@ -85,5 +85,6 @@ resetBtn.addEventListener('click',  () =>{
     display_value.innerHTML ="";
     display_text.innerHTML ="";
     totalDiv.innerHTML = "0.00";
-  
+    tshsSpan.innerHTML = "Tshs";
+ 
 })
