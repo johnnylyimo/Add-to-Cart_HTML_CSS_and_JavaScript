@@ -60,3 +60,9 @@ header span{
     justify-content: space-around;
     align-items: center;
 }
+
+/* direct affects left content and right content div */
+.content > div{
+    
+}
+
