@@ -21,4 +21,5 @@ var food_list =[
     {name: 'Wali Nyama', price:2000.00},
     {name: 'Pilau Nyama', price:2500.00},
     {name: 'Biriani Nyama', price:5000.00},
+    {name: 'Biriani Kuku', price:7000.00},
 ]
