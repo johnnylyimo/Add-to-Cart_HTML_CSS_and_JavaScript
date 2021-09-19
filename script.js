@@ -13,3 +13,4 @@ var total_item = 0;
 
 // initialize class to Button for styling
 addToCardBtn.classList.add('hidden');
+resetBtn.classList.add('hidden');
