@@ -18,4 +18,5 @@ resetBtn.classList.add('hidden');
 // list of all foods
 var food_list =[
     {name: 'Ugali Nyama', price:1500.00},
+    {name: 'Wali Nyama', price:2000.00},
 ]
