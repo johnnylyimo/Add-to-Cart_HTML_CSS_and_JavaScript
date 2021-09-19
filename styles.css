@@ -82,10 +82,13 @@ header span{
 }
 
 
-
+/* dynamic class called from javascript */
 .hidden{
     display: none;
 }
+
+/* dynamic class called from javascript */
+.btnStyle{}
 
 
 /* Responsive mobile friendly screen below width 768px  */
