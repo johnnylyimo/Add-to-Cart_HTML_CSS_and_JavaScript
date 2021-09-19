@@ -72,6 +72,6 @@ header span{
 
 /* left content */
 .content div:first-child{
-   
+    background-image: url('images/biriani.jpg');
 }
 
