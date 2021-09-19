@@ -77,5 +77,6 @@ addToCardBtn.addEventListener('click', () => {
 
 // Listen button event click
 resetBtn.addEventListener('click',  () =>{
+    var total = 0;
     
 })
