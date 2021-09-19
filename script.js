@@ -52,7 +52,8 @@ foods.addEventListener("change", function(){
     }else {
         notification.innerHTML ="No dish selected";
         display_text.innerHTML = null;
-        
+        display_value.innerHTML = null;
+    
     }
 
 })
