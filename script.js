@@ -41,7 +41,10 @@ foods.addEventListener("change", function(){
     user_selection.value = selected_item.value;
     user_selection.text = selected_item.text;
 
-    // if conditiona check if user select item
-    if (Number(user_selection.value) > 0){}
+    // if conditiona check if user select an item
+    if (Number(user_selection.value) > 0){
+        notification.innerHTML ='You have selected: ';
+        
+    }
 
 })
