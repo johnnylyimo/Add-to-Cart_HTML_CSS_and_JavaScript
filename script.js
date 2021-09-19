@@ -49,6 +49,9 @@ foods.addEventListener("change", function(){
         resetBtn.classList.remove('hidden');
         addToCardBtn.classList.add('btnStyle');
         resetBtn.classList.add('btnStyle');
+    }else {
+        notification.innerHTML ="No dish selected";
+     
     }
 
 })
