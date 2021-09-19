@@ -87,6 +87,8 @@ header span{
 
 /* Responsive mobile friendly screen below width 768px  */
 @media only screen and (max-width: 768px){
-
+    main {
+    
+    }
 }
 
