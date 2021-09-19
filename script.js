@@ -79,5 +79,6 @@ addToCardBtn.addEventListener('click', () => {
 resetBtn.addEventListener('click',  () =>{
     var total = 0;
     var total_item = 0;
- 
+    foods.selectedIndex = '';
+
 })
