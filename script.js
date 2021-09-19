@@ -70,6 +70,8 @@ addToCardBtn.addEventListener('click', () => {
         total_item++;
         total+= parseFloat(user_selection.value);
         totalDiv.innerHTML = total.toFixed(2);
+    } else {
+        alert("We apologize, you can't add more item because you already exceeded the maximum order");
     }
 
 })
