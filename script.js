@@ -39,5 +39,6 @@ user_selection = {value:null, text:null};
 foods.addEventListener("change", function(){
     var selected_item = document.querySelector('#foods option:checked');
     user_selection.value = selected_item.value;
+    user_selection.text = selected_item.text;
 
 })
