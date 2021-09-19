@@ -34,3 +34,6 @@ for(var i = 0; i < food_list.length; i++){
 
 // create object variable
 user_selection = {value:null, text:null};
+
+// Add event to select tag foods
+foods.addEventListener("change", function(){}
