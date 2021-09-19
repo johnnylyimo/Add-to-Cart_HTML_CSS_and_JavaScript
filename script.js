@@ -87,4 +87,5 @@ resetBtn.addEventListener('click',  () =>{
     totalDiv.innerHTML = "0.00";
     tshsSpan.innerHTML = "Tshs";
     addToCardBtn.classList.add('hidden');
+    resetBtn.classList.add('hidden');
 })
