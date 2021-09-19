@@ -54,6 +54,7 @@ foods.addEventListener("change", function(){
         display_text.innerHTML = null;
         display_value.innerHTML = null;
         addToCardBtn.classList.add('hidden');
+        resetBtn.classList.add('hidden');
     }
 
 })
