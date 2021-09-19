@@ -19,4 +19,5 @@ resetBtn.classList.add('hidden');
 var food_list =[
     {name: 'Ugali Nyama', price:1500.00},
     {name: 'Wali Nyama', price:2000.00},
+    {name: 'Pilau Nyama', price:2500.00},
 ]
