@@ -35,7 +35,7 @@ for(var i = 0; i < food_list.length; i++){
 // create object variable
 user_selection = {value:null, text:null};
 
-// Add event to select tag foods
+// Listen select tag change event when user select item
 foods.addEventListener("change", function(){
     var selected_item = document.querySelector('#foods option:checked');
     user_selection.value = selected_item.value;
@@ -57,4 +57,10 @@ foods.addEventListener("change", function(){
         resetBtn.classList.add('hidden');
     }
 
+})
+
+
+// Listen button event click
+addToCardBtn.addEventListener('click', () => {
+    
 })
