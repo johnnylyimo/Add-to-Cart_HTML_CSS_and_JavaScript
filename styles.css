@@ -80,6 +80,8 @@ header span{
 /* right content */
 .content div:last-child{
     background-color:lightgray;
+    display: flex;
+   
 }
 
 
