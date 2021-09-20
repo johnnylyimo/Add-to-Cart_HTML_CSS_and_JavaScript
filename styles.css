@@ -86,13 +86,18 @@ header span{
     align-items: center;
 }
 
-/* User selection spans tag */
+/* User selection spans */
 .content div:nth-child(3){
     background-color: rgb(177, 177, 177);
     margin: 10px 5px;
     border-radius: 5px;
     padding: 2px 3px;
     text-align: center;
+}
+
+/* Total div */
+.content div:nth-child(6){
+  
 }
 
 
