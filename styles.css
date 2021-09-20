@@ -88,7 +88,8 @@ header span{
 
 /* User selection spans tag */
 .content div:nth-child(3){
- 
+    background-color: rgb(177, 177, 177);
+   
 }
 
 
