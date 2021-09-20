@@ -86,6 +86,13 @@ header span{
     align-items: center;
 }
 
+/* User selection spans tag */
+.content div:nth-child(3){
+ 
+}
+
+
+
 
 /* dynamic class called from javascript */
 .hidden{
