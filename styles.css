@@ -86,6 +86,11 @@ header span{
     align-items: center;
 }
 
+
+/* styling right content h3 */
+.content div:last-child h3{
+}
+
 /* User selection spans */
 .content div:nth-child(3){
     background-color: rgb(177, 177, 177);
