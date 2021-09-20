@@ -89,6 +89,7 @@ header span{
 
 /* styling right content h3 */
 .content div:last-child h3{
+    font: bold 1.2em Verdana, Tahoma, sans-serif;
 }
 
 /* User selection spans */
@@ -106,8 +107,6 @@ header span{
     border-radius: 5px;
     padding: 2px 5px;
 }
-
-
 
 
 /* dynamic class called from javascript */
@@ -139,3 +138,7 @@ header span{
     }
 }
 
+
+
+/* styling select tag holds items selected */
+/* .content div:nth-child(5){} */
