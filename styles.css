@@ -97,6 +97,7 @@ header span{
 
 /* Total div */
 .content div:nth-child(6){
+    background-color: rgb(177, 177, 177);
   
 }
 
